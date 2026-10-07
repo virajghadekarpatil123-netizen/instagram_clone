@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Clone Mobile & Web",
+  "description": "A fully functional, responsive Instagram experience with Feed, Stories, Reels, Direct Messages, Explore, interactive photo posting with filters, and mobile Expo export compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
